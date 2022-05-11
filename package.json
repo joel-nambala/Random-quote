@@ -1,0 +1,19 @@
+{
+  "name": "random-quote",
+  "version": "1.0.0",
+  "description": "Generates quotes randomly",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel-nambala/Random-quote.git"
+  },
+  "author": "joel nambala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joel-nambala/Random-quote/issues"
+  },
+  "homepage": "https://github.com/joel-nambala/Random-quote#readme"
+}
