@@ -1,2 +1,3 @@
-# Random-quote
+# Random quote
+
 Generates quotes randomly
